@@ -1,7 +1,7 @@
 function Home() {
   return (
     <>
-        <h1>HOME</h1>
+        <h1>PALLE SUDATE DI ALESSIA LANZA</h1>
     </>
   )
 }
